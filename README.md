@@ -1,5 +1,5 @@
 
-## program in question?
+## Program in question?
 
 The program has the didactic purpose of learning how to work with components in Angular CLI. To accomplish this, three components were created, each with the function of consuming an API. To do this, a "service" folder was created with two methods: "apiGetpomon" and "apiListAllpomons", which are responsible for making the API requests (using https://pokeapi.co/).
 
