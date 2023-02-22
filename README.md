@@ -1,27 +1,21 @@
+
+## program in question?
+
+The program has the didactic purpose of learning how to work with components in Angular CLI. To accomplish this, three components were created, each with the function of consuming an API. To do this, a "service" folder was created with two methods: "apiGetpomon" and "apiListAllpomons", which are responsible for making the API requests (using https://pokeapi.co/).
+
 # Pokedex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version  15.1.2 and Node: 18.13.0
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Project's goal
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The project aims to practice the Angular knowledge acquired during the Udemy course.
+Project developed in the Udemy course "Angular 2 (v15+) Typescript from Basics to Advanced" by Professor Dener Troquatte.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## The course exceeded my expectations and I highly recommend it. Here's the link:
+https://www.udemy.com/course/curso-de-angular/ 
